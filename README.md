@@ -8,6 +8,9 @@ A collection of water bodies images captured by the Sentinel-2 Satellite. Each i
 ## **🧭Problem Statement:** 
 Segment the water bodies from satellite images
 
+![image](https://user-images.githubusercontent.com/88608935/230837760-fccbc449-ed8e-4300-9016-1208ae85dcc1.png)
+
+
 ## **Steps taken to solve the problem:**
 
 1. Load the satelite images data
