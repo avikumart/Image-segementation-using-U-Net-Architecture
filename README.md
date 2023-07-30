@@ -8,14 +8,16 @@ A collection of water bodies images captured by the Sentinel-2 Satellite. Each i
 ## **🧭Problem Statement:** 
 Segment the water bodies from satellite images
 
+U-net architecture 
+
 ![image](https://user-images.githubusercontent.com/88608935/230837760-fccbc449-ed8e-4300-9016-1208ae85dcc1.png)
 
 
 ## **Steps taken to solve the problem:**
 
-1. Load the satelite images data
+1. Load the satellite images data
 2. Explore the image data
 3. Pre-process the normalize the images
 4. U-net architecture implementation
 5. Train the model 
-6. Evaluate and prediction on test dataset
+6. Evaluate and predict on the test dataset
